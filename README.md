@@ -38,13 +38,13 @@ Before running this project, ensure that you have the following dependencies ins
 ## Installation
 1. Clone this repository to your local machine or download the project files.
 2. Install the required dependencies using the following command:
-3. !pip install pandas numpy xgboost
+3. '!pip install pandas numpy xgboost'
 
 
 ## Usage
-1. Place the dataset file (e.g., `sales_data.csv`) in the project directory.
+1. Place the dataset file (e.g., `Train.csv`) in the project directory.
 2. Modify the configuration settings in the script according to your dataset and requirements.
-3. Run the Jupyter Notebook downloaded 
+3. Run the 'Jupyter Notebook downloaded' 
 
 ## Results
 After running the script, the model will be trained on the provided dataset, and the evaluation results will be displayed. The results may include metrics such as mean squared error (MSE), mean absolute error (MAE), and R-squared value.
