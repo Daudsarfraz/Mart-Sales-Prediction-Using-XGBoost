@@ -23,7 +23,10 @@ The project includes the following key steps:
 5. Model deployment: Saving the trained model for future predictions on new data.
 
 ## Dataset
-The dataset used in this project contains historical information about products and their corresponding sales in the mart. It includes features such as product attributes, prices, discounts, and promotional information. The dataset is expected to be in a structured format, preferably in a CSV file.
+The dataset used in this project contains historical information about products and their corresponding sales in the mart. It includes features such as 'Item_Identifier', 'Item_Weight', 'Item_Fat_Content', 'Item_Visibility',
+       'Item_Type', 'Item_MRP', 'Outlet_Identifier',
+       'Outlet_Establishment_Year', 'Outlet_Size', 'Outlet_Location_Type',
+       'Outlet_Type', 'Item_Outlet_Sales'. The dataset is expected to be in a structured format, preferably in a CSV file.
 
 ## Prerequisites
 Before running this project, ensure that you have the following dependencies installed:
