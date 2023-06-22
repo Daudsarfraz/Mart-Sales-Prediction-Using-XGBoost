@@ -1,4 +1,5 @@
 # Mart Sales Prediction using XGBoost Algorithm
+![Untitled design](https://github.com/Daudsarfraz/Mart-Sales-Prediction-Using-XGBoost/assets/87930468/a4cf659b-2d4e-47a9-9373-0f8c18030416)
 
 This project aims to predict sales in a mart using the XGBoost algorithm. XGBoost is a powerful and widely-used machine learning algorithm known for its high performance in regression and classification tasks.
 
